@@ -1,0 +1,20 @@
+.card{
+    width: 200px;
+    height: 300px;
+    background-color: chocolate;
+    border-radius: 1em;
+    margin: 2em;
+}
+.photo img{
+    width: 80%;
+    border-radius: 2em;
+
+
+}
+.photo{
+ text-align: center;
+
+}
+.lab{
+    text-align: center;
+}
