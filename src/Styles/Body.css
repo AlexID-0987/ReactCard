@@ -18,3 +18,21 @@
 .lab{
     text-align: center;
 }
+.emoji{
+    display: flex;
+
+}
+.like {
+    margin-left: 1em;
+    cursor: pointer;
+}
+.like1 {
+    margin-left: 1em;
+    cursor: pointer;
+}
+.counter{
+    font-size: 1.5em;
+}
+.counter1{
+    font-size: 1.5em;
+}
