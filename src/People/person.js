@@ -38,7 +38,7 @@ class Person extends React.Component{
                     </div>
                 </div>
                 <div className="lab">
-                    <h1>{this.name}</h1>
+                    <h1 style={{color:this.state.likes >=5 ? 'green':'black' }}>{this.name}</h1>
                 </div>
             </div>
         )
